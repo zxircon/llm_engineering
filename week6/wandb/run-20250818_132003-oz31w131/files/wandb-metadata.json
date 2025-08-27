@@ -1,0 +1,38 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.12",
+  "startedAt":  "2025-08-18T10:20:03.006837Z",
+  "program":  "week6/day5-Onur.ipynb",
+  "git":  {
+    "remote":  "https://github.com/zxircon/llm_engineering.git",
+    "commit":  "4d874cda7dbd62c68d3c1a2631432bc5686e7fac"
+  },
+  "email":  "llm.code08@gmail.com",
+  "root":  "C:\\Users\\Onur\\projects\\llm_engineering\\week6",
+  "host":  "Zxircon",
+  "executable":  "C:\\Users\\Onur\\anaconda3\\envs\\llms\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "NVIDIA GeForce MX350",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "254492536832",
+      "used":  "226664611840"
+    }
+  },
+  "memory":  {
+    "total":  "8362713088"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce MX350",
+      "memoryTotal":  "2147483648",
+      "cudaCores":  640,
+      "architecture":  "Pascal",
+      "uuid":  "GPU-e5e31dfd-a2b0-12ff-ea8a-092495e6c927"
+    }
+  ],
+  "cudaVersion":  "12.1",
+  "writerId":  "3jjjng8t80ru5axicd2fscijr79iqpxs"
+}

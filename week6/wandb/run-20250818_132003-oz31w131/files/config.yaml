@@ -1,0 +1,76 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        e:
+            3jjjng8t80ru5axicd2fscijr79iqpxs:
+                cpu_count: 4
+                cpu_count_logical: 8
+                cudaVersion: "12.1"
+                disk:
+                    /:
+                        total: "254492536832"
+                        used: "226664611840"
+                email: llm.code08@gmail.com
+                executable: C:\Users\Onur\anaconda3\envs\llms\python.exe
+                git:
+                    commit: 4d874cda7dbd62c68d3c1a2631432bc5686e7fac
+                    remote: https://github.com/zxircon/llm_engineering.git
+                gpu: NVIDIA GeForce MX350
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Pascal
+                      cudaCores: 640
+                      memoryTotal: "2147483648"
+                      name: NVIDIA GeForce MX350
+                      uuid: GPU-e5e31dfd-a2b0-12ff-ea8a-092495e6c927
+                host: Zxircon
+                memory:
+                    total: "8362713088"
+                os: Windows-10-10.0.26100-SP0
+                program: week6/day5-Onur.ipynb
+                python: CPython 3.11.12
+                root: C:\Users\Onur\projects\llm_engineering\week6
+                startedAt: "2025-08-18T10:20:03.006837Z"
+                writerId: 3jjjng8t80ru5axicd2fscijr79iqpxs
+        m: []
+        python_version: 3.11.12
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 71
+                - 95
+                - 97
+                - 105
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 71
+                - 95
+                - 97
+                - 105
+            "3":
+                - 2
+                - 16
+            "4": 3.11.12
+            "5": 0.21.1
+            "6": 4.51.3
+            "8":
+                - 1
+                - 3
+            "12": 0.21.1
+            "13": windows-amd64
+architecture:
+    value: TestNet
+dataset:
+    value: DummySet
+epochs:
+    value: 10
+learning_rate:
+    value: 0.01
